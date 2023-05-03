@@ -13,17 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-US"
 title: Macroevolution of Rates and Traits
 email: bruce.stagg.martin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there! I'm a PhD candidate in the Department of Plant Biology
-  at Michigan State University advised by Marjorie Weber (who is now
-  at the University of Michigan). Generally speaking, my
-  research aims to develop statistical tools for studying what factors
-  cause evolutionary processes (primarily trait or phenotypic 
-  evolution) to vary over space, time, and taxa. At the moment, I
-  primarily work on developing new phylogenetic comparative methods
-  for characterizing variation in rates of continuous trait evolution.
+  PhD candidate at Michigan State University
+baseurl: /about
+repository: bstaggmartin/bstaggmartin.github.io
 twitter_username: bstaggmartin
 github_username: bstaggmartin
 minimal_mistakes_skin: default
@@ -64,12 +60,9 @@ plugins:
 
 author:
   name   : "Bruce Stagg Martin"
-  avatar : "/assets/images/bio-photo.png"
-  bio    : "PhD candidate in Department of Plant Biology at Michigan State University currently trying to figure out the deal with phenotypic diversification."
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "I'm a Michigan State University PhD candidate developing phylogenetic comparative methods and trying to figure out the deal with phenotypic diversification."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://bstaggmartin.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bstaggmartin"
