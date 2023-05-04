@@ -13,13 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale: en-US
-title: Macroevolution of Rates and Traits
-email: bruce.stagg.martin@gmail.com
-description: PhD candidate at Michigan State University
-twitter_username: bstaggmartin
-github_username: bstaggmartin
-minimal_mistakes_skin: default
+locale: "en-US"
+title: "Macroevolution of Traits and Rates"
+email: "bruce.stagg.martin@gmail.com"
+description: "PhD candidate at Michigan State University"
+repository: "bstaggmartin/bstaggmartin.github.io"
+url: "https://bstaggmartin.github.io"
+baseurl: ""
+twitter_username: "bstaggmartin"
+github_username: "bstaggmartin"
+minimal_mistakes_skin: "default"
 search: true
 
 # Build settings
@@ -29,7 +32,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-timezone: EDT
+timezone: "America/New_York"
 
 include:
   - _pages
