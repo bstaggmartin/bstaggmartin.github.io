@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Bruce Stagg Martin"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Bruce_headshot.png"
   bio    : "I'm a Michigan State University PhD candidate developing phylogenetic comparative methods and trying to figure out the deal with phenotypic diversification."
   links:
     - label: "Twitter"
