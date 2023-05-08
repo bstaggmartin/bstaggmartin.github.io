@@ -9,7 +9,7 @@ tags:
   - introduction
 ---
 
-Welcome to the blog! I don't really have any posts planned yet, but hope to eventually use this to occasionally share research updates, evolutionary/statstical musings, and R tutorials/code snippets, among whatever else.
+Welcome to the blog! I don't really have any posts planned yet, but hope to eventually use this to occasionally share research updates, evolutionary/statistical musings, and R tutorials/code snippets, among whatever else.
 
 <!--more-->
 
