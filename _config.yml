@@ -106,7 +106,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  comments:
+comments:
   provider: "utterances"
   utterances:
     theme: "github-light"
