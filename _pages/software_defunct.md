@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /software/
+permalink: /software_defunct/
 title: "Software"
 author_profile: true
 cont_rate_het:
