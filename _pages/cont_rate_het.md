@@ -5,4 +5,4 @@ title: "Modeling variation in rates of continuous trait evolution"
 author_profile: true
 ---
 
-Under construction! Come back later. :)
+Sorry, this page is still a work in progress.
