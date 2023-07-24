@@ -3,6 +3,7 @@ layout: single
 permalink: /research/
 title: "Research"
 author_profile: true
+classes: wide
 ---
 
 Because all organisms are related via evolution, it follows that the many observed disparities in biodiversity across both space (e.g., tropical versus temperate regions) and taxa (e.g., flowering plants versus conifers) are directly related to differences in evolutionary time and/or rates. More concretely, species richness, genetic diversity, and phenotypic diversity are inextricably linked to the balance of speciation and extinction rates, rates of molecular evolution, and rates of trait evolution, respectively. This may seem rather self-evident in retrospect, but it has a big consequence: accurate and robust quantification of evolutionary rates is absolutely essential to understanding how and why biodiversity is distributed the way it is.
