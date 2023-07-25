@@ -12,21 +12,40 @@ toc: true
 
 ### Evolving rates
 
-A novel approach to modeling continuous trait evolution that allows the rate of evolution itself to gradually "evolve" over time and across lineages (pretty well-developed).
-{: style="text-align: justify; font-size:1em;"}
+A novel approach to modeling continuous trait evolution that allows the rate of evolution itself to gradually "evolve" over time and across lineages.
+{: style="text-align: justify; font-size:0.75em;"}
+
+Functionality complete
+{: .notice--info}
+
+Documentation nearly complete
+{: .notice--primary}
+
 
 [Github repo](https://github.com/bstaggmartin/evorates/){: .btn .btn--primary}
 
 ### Continuous stochastic character mapping
 
-A felixible framework for simulating evolutionary histories of continuous variables under all manner of Brownian Motion models (usable, not documented).
-{: style="text-align: justify; font-size:1em;"}
+A felixible framework for simulating evolutionary histories of continuous variables under all manner of Brownian Motion models.
+{: style="text-align: justify; font-size:0.75em;"}
+
+Functionality nearly complete
+{: .notice--success}
+
+Documentation in progress
+{: .notice--warning}
 
 [Github repo](https://github.com/bstaggmartin/contsimmap/){: .btn .btn--primary}
 
 ### State-dependent character evolution
 
-A new algorithm for fitting models of interdependent evolution among discrete and continuous traits (still a total work in progress--stay tuned).
-{: style="text-align: justify; font-size:1em;"}
+A new algorithm for fitting models of interdependent evolution among discrete and continuous traits.
+{: style="text-align: justify; font-size:0.75em;"}
+
+Functionality in progress
+{: .notice--warning}
+
+Documentation in progress
+{: .notice--warning}
 
 [Github repo](https://github.com/bstaggmartin/sce/){: .btn .btn--primary}
