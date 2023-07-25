@@ -11,7 +11,7 @@ classes: wide
 A. Myers, B.S. Martin, J.S. Yonenaga, and M.G. Weber. Convergent Evolution of Leaf Domatia: A Global Assessment of Plant-Mite Mutualism and its Ecological Drivers.
 {: style="font-size:0.75em"}
 
-M.L. Robinson, P.G. Hahn, B.D. Inouye, ...[107 authors]..., B.S Martin, ...[75 authors]..., L.N. Zehr, Z. Zhong, and W.C. Wetzel. Plant Size, Latitude, and Phylogeny Explain Variability in Global Herbivory.
+M.L. Robinson, P.G. Hahn, B.D. Inouye, ... [ 107 authors ] ..., B.S Martin, ... [ 75 authors ] ..., L.N. Zehr, Z. Zhong, and W.C. Wetzel. Plant Size, Latitude, and Phylogeny Explain Variability in Global Herbivory.
 {: style="font-size:0.75em"}
 
 ## 2023
