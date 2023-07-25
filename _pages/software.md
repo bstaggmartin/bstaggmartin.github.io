@@ -6,13 +6,13 @@ author_profile: true
 toc: true
 ---
 
-## R packages for modeling variation in rates of continuous trait evolution
+## Modeling variation in rates of continuous trait evolution
 
 [Read more](/cont_rate_het/){: .btn .btn--primary}
 
 ### Evolving rates
 
-A novel approach to modeling continuous trait evolution that allows the rate of evolution itself to gradually "evolve" over time and across lineages.
+R package for modeling continuous trait evolution that allows the rate of evolution itself to gradually "evolve" over time and across lineages.
 {: style="text-align: justify; font-size:0.75em;"}
 
 Functionality complete
@@ -26,11 +26,11 @@ Documentation nearly complete
 
 ### Continuous stochastic character mapping
 
-A felixible framework for simulating evolutionary histories of continuous variables under all manner of Brownian Motion models.
+R package for simulating evolutionary histories of continuous variables under all manner of Brownian Motion models.
 {: style="text-align: justify; font-size:0.75em;"}
 
 Functionality nearly complete
-{: .notice--success}
+{: .notice--primary}
 
 Documentation in progress
 {: .notice--warning}
@@ -39,7 +39,7 @@ Documentation in progress
 
 ### State-dependent character evolution
 
-A new algorithm for fitting models of interdependent evolution among discrete and continuous traits.
+R package implementing a new algorithm for fitting models of interdependent evolution among discrete and continuous traits.
 {: style="text-align: justify; font-size:0.75em;"}
 
 Functionality in progress
