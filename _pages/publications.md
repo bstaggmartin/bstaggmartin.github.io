@@ -17,6 +17,7 @@ B.S. Martin and M.G. Weber. 2024. Stochastic Character Mapping of Continuous Tra
 {: style="font-size:0.75em"}
 
 B.S. Martin. 2024. _New Phylogenetic Comparative Approaches for Studying Variation in Rates of Continuous Trait Evolution_ (doctoral dissertation, Michigan State University). ProQuest Dissertation and Theses ([31335844](https://www.proquest.com/docview/3078848974?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses))
+{: style="font-size:0.75em"}
 
 ## 2023
 
