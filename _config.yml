@@ -16,7 +16,7 @@
 locale: "en-US"
 title: "Macroevolution of Traits and Rates"
 email: "bruce.stagg.martin@gmail.com"
-description: "PhD candidate at Michigan State University"
+description: "Postdoc at University of Michigan"
 repository: "bstaggmartin/bstaggmartin.github.io"
 url: "https://bstaggmartin.github.io"
 baseurl: ""
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Bruce Stagg Martin"
   avatar : "assets/images/Bruce_headshot.png"
-  bio    : "I'm a Michigan State University PhD candidate developing phylogenetic comparative methods and trying to figure out the deal with phenotypic diversification."
+  bio    : "I'm a University of Michigan postdoc developing phylogenetic comparative methods and trying to figure out the deal with phenotypic diversification."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
