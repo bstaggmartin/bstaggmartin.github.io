@@ -63,18 +63,18 @@ author:
   avatar : "assets/images/Bruce_headshot.png"
   bio    : "I'm a University of Michigan postdoc developing phylogenetic comparative methods and trying to figure out the deal with phenotypic diversification."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bstaggmartin"
+    - label: "Bluesky"
+      icon: "fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/bstaggmartin.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bstaggmartin"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bstaggmartin"
+    - label: "Bluesky"
+      icon: "fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/bstaggmartin.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bstaggmartin"
